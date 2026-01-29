@@ -41,7 +41,7 @@ O foco do projeto é a criação de um **slider interativo de produtos**, com an
 
 Durante o desenvolvimento deste projeto, pude consolidar diversos aprendizados importantes, como:
 
-- Importância de pequenos detalhes (ex: `length`, seletores corretos)
+- Importância de pequenos detalhes
 - Como organizar animações sem deixar o visual poluído
 - Controle de tempo entre animações e interações
 - Separação clara de responsabilidades entre **HTML**, **CSS** e **JavaScript**
